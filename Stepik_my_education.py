@@ -29,7 +29,6 @@ try:
 #    s = str(x + z)
 #    print(s)
 
-
 #    button = browser.find_element(By.CSS_SELECTOR, ".trollface ")
 #    button.click()
     #   alert = browser.switch_to.alert
